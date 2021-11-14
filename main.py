@@ -39,4 +39,4 @@ async def test(ctx):
     print("test")
 
 
-client.run('OTAzOTk3OTQ4OTQ4NTQ1NTY2.YX1Hsg.e6RIzXLQduqm9OGyDCCvcDCP-vY')
+client.run('')
